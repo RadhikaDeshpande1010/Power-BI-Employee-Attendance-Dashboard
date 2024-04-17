@@ -1,6 +1,6 @@
 # Employee Attendance Dashboard using Microsoft Power BI
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard.png "Attendance Dashboard")
+![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Employee%20Attendance%20Banner.png "Employee Attendance Banner")
 
 ## Table of Contents
 * [Introduction](#Introduction)
