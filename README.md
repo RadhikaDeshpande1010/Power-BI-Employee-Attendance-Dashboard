@@ -6,7 +6,7 @@
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
 * [Dataset](#Dataset)
-* [Data Analysis](#Dat-Analysis)
+* [Data Analysis](#Data-Analysis)
 * [Data Preparation and Processing](#Q2-Employee-Attendance-Data-Preparation-and-Processing)
 * [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
 * [Dashboard](#Dashboard)
