@@ -37,7 +37,7 @@ The assigned attendance aliases (attendance key) are as followed:
 
 ## Data Analysis
 
-<h3> Q2 Employee Attendance Data Preparation and Processing </h3>
+## Q2 Employee Attendance Data Preparation and Processing 
 * Load the Raw Data.
 * To conduct the analysis, I needed to convert the dataset from wide to long format. To do so, I used Power Query to unpivot the date columns.
 * Data cleaning is performed on Power Query.
@@ -45,7 +45,7 @@ The assigned attendance aliases (attendance key) are as followed:
 * The Q2 attendance data originally did not include the appropriate day of week for each date. To remedy this, I created the column named "Day of Week", which contains the abbreviated  name of the day of the week for each date.
 * After Data Preparation and Processing activity, it is ready for developing the Interactive Dashboard.
   
-<h3> DAX Formulas Used in Measures </h3>
+## DAX Formulas Used in Measures
 
 **1. Office Working Days:** This DAX calculates the number of office working days by subtracting non-working days from the total number of days.
 * ```
@@ -78,7 +78,7 @@ The assigned attendance aliases (attendance key) are as followed:
    SL Rate = DIVIDE([SL],[Office Working days])
    ```
 
-<h3> Dashboard </h3>
+## Dashboard
 
 ![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard%20Image.png "Attendance Dashboard Image")
 
