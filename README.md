@@ -1,6 +1,6 @@
 # Employee Attendance Dashboard using Microsoft Power BI
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard%20Image.png "Attendance Dashboard Image")
+![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard.png "Attendance Dashboard")
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -80,7 +80,7 @@ The assigned attendance aliases (attendance key) are as followed:
 
 ## Dashboard
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard%20Image.png "Attendance Dashboard Image")
+![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance%20Dashboard.png "Attendance Dashboard")
 
 ## Conclusion
 In conclusion, the Employee Attendance Dashboard has provided valuable insights into our workforce's attendance patterns and behaviors. Through thorough analysis of the data, several key findings have emerged:
