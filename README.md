@@ -5,10 +5,12 @@
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
-* [Installation / Usage](#Installation--Usage)
+* [Dataset](#Dataset)
+* [Data Analysis](#Dat-Analysis)
+* [Data Preparation and Processing](#Q2-Employee-Attendance-Data-Preparation-and-Processing)
 * [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
-* [Bug / Feature Request](#Bug--Feature-Request)
-* [Authors](#Authors)
+* [Dashboard](#Dashboard)
+* [Conclusion](#Conclusion)
   
 ## Introduction
 * This project aims to develop a Power BI Dashboard to provide insights into employee attendance patterns within the organization.
