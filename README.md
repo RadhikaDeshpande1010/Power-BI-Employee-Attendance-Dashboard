@@ -14,7 +14,7 @@
   
 ## Introduction
 * This project aims to develop a Power BI Dashboard to provide insights into employee attendance patterns within the organization.
-* The Power BI dashboard for analyzing employee attendance data can be accessed through the following link: [Employee Attendance Dashboard](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Attendance_Report.pbix)
+* The Power BI dashboard for analyzing employee attendance data can be accessed through the following link: [Employee Attendance Dashboard](https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/SRC/Attendance_Report.pbix)
 
 ## Dashboard Requirements
 * Primary KPI's - Office Working Days value and Absenteeism rate in the second quarter of 2022.
