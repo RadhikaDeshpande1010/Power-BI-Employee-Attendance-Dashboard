@@ -1,6 +1,6 @@
 # Employee Attendance Dashboard
 
-<img src="https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Images/Background.png" height="230" width="1200">
+<img src="https://github.com/RadhikaDeshpande1010/Power-BI-Employee-Attendance-Dashboard/blob/main/Visual%20Background.png" height="230" width="1200">
 
 ## Table of Contents
 * [Introduction](#Introduction)
